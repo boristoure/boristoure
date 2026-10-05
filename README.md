@@ -18,19 +18,18 @@ data can be transformed into actionable intelligence for healthcare leaders.
 
 ## Featured Project
 
-### Charlotte–Mecklenburg Population Health Intelligence
+## Featured Project
 
-An end-to-end population-health analytics project integrating Mecklenburg
-County mortality data with U.S. Census population estimates to examine
-mortality trends, age-specific patterns, selected causes of death, and
-population-adjusted healthcare signals.
+### [Charlotte–Mecklenburg Population Health Intelligence](https://github.com/boristoure/charlotte-population-health-intelligence)
+
+Population-health analytics project integrating Mecklenburg County mortality
+data with U.S. Census population estimates to identify mortality trends,
+age-specific patterns, and population-adjusted healthcare signals.
 
 **Key finding:** Accident mortality among adults ages 25–44 increased 17.6%
 between 2020 and 2023 after accounting for population growth.
 
-## Tools & Technologies
-
-Excel | Power Query | SQL | Python | Power BI | Tableau
+**Tools:** Excel | Power Query | Population Health Analytics | Data Visualization
 
 ## Education
 
